@@ -21,16 +21,16 @@ date: 2018-02-27
 ###<i class="fa fa-eye"></i> 自我评价
 
 
-**个人博客: [http://yangzuohua.top][3]**
+**个人博客:http://yangzuohua.top**
 
-**GitHub: [https://github.com/eternity6666][4]**
+**GitHub:https://github.com/eternity6666**
 
-###<i class="fa fa-binoculars"></i> 求职目标
+### <i class="fa fa-binoculars"></i> 求职目标
 
 * **研发：前端**
 
-###<i class="fa fa-binoculars"></i> 职业目标
+### <i class="fa fa-binoculars"></i> 职业目标
 
 * **learn and be better**
 
-###<i class="fa fa-binoculars"></i> 专业技能
+### <i class="fa fa-binoculars"></i> 专业技能
