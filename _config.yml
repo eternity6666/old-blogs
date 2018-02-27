@@ -1,0 +1,32 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+highlighter: rouge
+
+permalink: blog/:year/:month/:day/:title.html
+paginate: 7
+paginate_path: page/:num
+encoding: "utf-8"
+future: true
+lsi: false
+safe: true
+gems: [jekyll-paginate]
+
+blog:
+    name: 没有语言的傻子
+    description: learn and better
+    title: blog of yzh
+    url: blog.yangzuohua.top
+author:
+    name: 阳作华
+    email: 1462928058@qq.com
+    weibo: https://weibo.com/u/6005389353
+    weixin: Y1462928058
+    QQ: 1462928058
+    github: https://github.com/eternity6666
+    logo: /res/img/psb.jpg     
